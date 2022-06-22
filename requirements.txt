@@ -1,6 +1,6 @@
 # Tested in Ubuntu 20.04 with Python 3.8.0
 
-numpy==1.18.5
+numpy==1.22.0
 Pillow==9.0.1
 scikit-learn==0.23.2
 torch==1.6.0
